@@ -25,3 +25,6 @@
 
   padding: 5px;
 }
+select option{
+  text-transform: uppercase;
+}
